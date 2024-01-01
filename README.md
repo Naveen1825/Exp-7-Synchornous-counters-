@@ -1,7 +1,6 @@
-```
-Name : Naveenkanthan L
+
+Name : Naveenkanthan L<br>
 Reg no : 23007705
-```
 
 # Exp-6-Synchornous-counters - up counter and down counter 
 
